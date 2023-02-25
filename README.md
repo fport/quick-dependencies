@@ -16,3 +16,9 @@ To use the tool, navigate to your project directory and run the following comman
 
 ## Contributing
 If you would like to contribute to the Quick Dependencies project, please feel free to submit a pull request. Before submitting a pull request, please make sure to review the contribution guidelines.
+
+
+# 📸 Screenshots
+<img width="455" alt="Screenshot 2023-02-25 at 13 04 41" src="https://user-images.githubusercontent.com/56169582/221351242-d0860a2b-ff68-4e4c-aa97-b94bd4f2010b.png">
+
+<img width="603" alt="Screenshot 2023-02-25 at 13 04 51" src="https://user-images.githubusercontent.com/56169582/221351196-5a8fe156-a115-49e3-92da-298fc1b918c4.png">
