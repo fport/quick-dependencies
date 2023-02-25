@@ -1,0 +1,9 @@
+{
+  "name": "quick-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "inquirer": "^8.2.5"
+  }
+}
